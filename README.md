@@ -1,5 +1,4 @@
-# school_pr1
-school project -1
+#README
 
 
-HEllo world!!!
+Hello World!
