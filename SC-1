@@ -1,1 +1,2 @@
 #SC-1
+echo "SC-1" > C:\Windows\Help\result.txt
