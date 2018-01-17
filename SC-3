@@ -1,1 +1,2 @@
-
+#SC-3
+echo "SC-3" > C:\Windows\Help\result.txt
