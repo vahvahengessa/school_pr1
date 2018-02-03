@@ -1,4 +1,5 @@
-#README
+HI!
 
+This is my school project.
 
-Hello World!
+Descriptions will be a later.
